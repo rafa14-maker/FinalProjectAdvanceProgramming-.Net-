@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\Hospital Management System\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\source\repos\Hospital Management System\DAL\bin\Debug\DAL.dll
+C:\Users\User\source\repos\Hospital Management System\DAL\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\Hospital Management System\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Hospital Management System\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Hospital Management System\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hospital Management System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hospital Management System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\source\repos\Hospital Management System\DAL\obj\Debug\DAL.dll
+C:\Users\User\source\repos\Hospital Management System\DAL\obj\Debug\DAL.pdb
+D:\Code\C#\Hospital Management System\DAL\bin\Debug\DAL.dll.config
+D:\Code\C#\Hospital Management System\DAL\bin\Debug\DAL.dll
+D:\Code\C#\Hospital Management System\DAL\bin\Debug\DAL.pdb
+D:\Code\C#\Hospital Management System\DAL\bin\Debug\EntityFramework.dll
+D:\Code\C#\Hospital Management System\DAL\bin\Debug\EntityFramework.xml
+D:\Code\C#\Hospital Management System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Code\C#\Hospital Management System\DAL\obj\Debug\DAL.dll
+D:\Code\C#\Hospital Management System\DAL\obj\Debug\DAL.pdb
+C:\New folder\Final Project\Hospital Management System\DAL\bin\Debug\DAL.dll.config
+C:\New folder\Final Project\Hospital Management System\DAL\bin\Debug\DAL.dll
+C:\New folder\Final Project\Hospital Management System\DAL\bin\Debug\DAL.pdb
+C:\New folder\Final Project\Hospital Management System\DAL\bin\Debug\EntityFramework.dll
+C:\New folder\Final Project\Hospital Management System\DAL\bin\Debug\EntityFramework.xml
+C:\New folder\Final Project\Hospital Management System\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\New folder\Final Project\Hospital Management System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\New folder\Final Project\Hospital Management System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\New folder\Final Project\Hospital Management System\DAL\obj\Debug\DAL.dll
+C:\New folder\Final Project\Hospital Management System\DAL\obj\Debug\DAL.pdb

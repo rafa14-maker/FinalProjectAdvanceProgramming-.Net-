@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "783acf40-5b5a-4633-8b45-4a26e2d0a27d": {
+      "ProjectGuid": "783acf40-5b5a-4633-8b45-4a26e2d0a27d",
+      "DisplayName": "Hospital Management System",
+      "ColorIndex": 0
+    },
+    "526572a3-7e41-48ef-a0af-f6b97f07b9a1": {
+      "ProjectGuid": "526572a3-7e41-48ef-a0af-f6b97f07b9a1",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "80aa5fb1-7c00-44ce-9f8d-e47e26020065": {
+      "ProjectGuid": "80aa5fb1-7c00-44ce-9f8d-e47e26020065",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
